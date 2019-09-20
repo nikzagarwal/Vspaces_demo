@@ -430,17 +430,17 @@ a img.aligncenter {
 
 .test {
     display: block;
-    background: rgb(168,207,69);
+    
     height:60px;
     color:white;
     text-align: center;
     /* padding-top: 0.4cm; */
     position: relative;
-    left:203px;
+    
     font-family: "Times New Roman", Times, serif;
     /* border-radius: 50 */
 
-
+    
 }
 
 .close{
